@@ -34,6 +34,6 @@ $python gen_points.py
 $python visualize.py
 ```
 
-Here are some example results of separating green, purple, orange, blue objects or points, with gray obstacles which does not matter.
+Here are some example results of separating green, purple, orange, blue objects or points, with gray obstacles which do not matter.
 
 <img src="figure/exp_4_result.png" width="300"/><img src="figure/exp_3_result.png" width="300"/><img src="figure/v2exp_2_result.png" width="300"/><img src="figure/v2exp_1_result.png" width="300"/>
